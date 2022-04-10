@@ -1,0 +1,7 @@
+@media (max-width: 800px) {
+  .row {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
+}
